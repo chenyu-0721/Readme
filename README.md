@@ -1,6 +1,6 @@
 (1)技術：HTML(Block Elements, Inline Elements)
 
-    <https://github.com/chenyu-0721/html-css-practise/tree/main/02-HTML-Fundamentals>
+<https://github.com/chenyu-0721/html-css-practise/tree/main/02-HTML-Fundamentals>
 
 (2)技術：CSS(Normal Flow, Absolute Position)
 
