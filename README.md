@@ -42,6 +42,15 @@ JavaScript
 
 ***
 
+Sass
+
+(1)技術：HTML, CSS, Sass
+
+<https://github.com/chenyu-0721/SASS-Pratice>
+
+
+***
+
 Vue
 
 (1)技術：Vue(props, @click, Event Binding , this.$emit, Arrow function , find) 
@@ -54,13 +63,6 @@ Vue
 
 ***
 
-Sass
-
-(1)技術：HTML, CSS, Sass
-
-<https://github.com/chenyu-0721/SASS-Pratice>
-
-***
 
 
 
