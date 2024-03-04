@@ -1,3 +1,5 @@
+HTML/CSS
+
 (1)技術：HTML(Block Elements, Inline Elements)
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/02-HTML-Fundamentals>
@@ -6,29 +8,40 @@
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/03-CSS-Fundamentals>
 
-(3)技術：CSS Layouts(CSS Grid (Grid Container, Grid Items))
+(3)技術：CSS Layouts(Floats, Flexbox(Flex Container, Flex Items), CSS Grid (Grid Container, Grid Items))
 
-<https://github.com/chenyu-0721/html-css-practise/blob/main/04-CSS-Layouts/css-grid.html>
+<https://github.com/chenyu-0721/html-css-practise/blob/main/04-CSS-Layouts>
 
-(4)技術： CSS Layouts (Flexbox(Flex Container, Flex Items))
-
-<https://github.com/chenyu-0721/html-css-practise/blob/main/04-CSS-Layouts/flexbox.html>
-
-(5)技術：CSS Layouts 
-
-<https://github.com/chenyu-0721/html-css-practise/blob/main/04-CSS-Layouts/index.html>
-
-(6)技術：Web Design Rules(Typography, Color, Icons, Images) 
-
-<https://github.com/chenyu-0721/html-css-practise/blob/main/05-Design/index.html>
-
-(7)技術：HTML + CSS (accordion, carousel, table, pagination) 
+(4)技術：HTML + CSS (accordion, carousel, table, pagination) 
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/06-Components>
 
-(8)技術：HTML+CSS綜合應用
+(5)技術：HTML+CSS綜合應用
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/09-Omnifood-Optimizations>
+
+
+***
+
+JavaScript
+
+(1)技術：JavaScript(Primitive, Bollean Logic)
+
+<https://github.com/chenyu-0721/JavaScript--/tree/main/01-Fundamentals>
+
+(2)技術：if-else, Function
+
+<https://github.com/chenyu-0721/JavaScript--/tree/main/02-Guess-My-Number>
+
+
+(3)技術：Data transformations(Map, Filter, Reduce, Dom)
+
+<https://github.com/chenyu-0721/JavaScript--/tree/main/04-Advanced-DOM-Bankist>
+
+<https://github.com/chenyu-0721/JavaScript--/tree/main/05-Mapty>
+
+
+
 
 
 
