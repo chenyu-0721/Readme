@@ -1,22 +1,14 @@
 HTML/CSS
 
-(1)技術：HTML(Block Elements, Inline Elements)
-
-<https://github.com/chenyu-0721/html-css-practise/tree/main/02-HTML-Fundamentals>
-
-(2)技術：CSS(Normal Flow, Absolute Position)
-
-<https://github.com/chenyu-0721/html-css-practise/tree/main/03-CSS-Fundamentals>
-
-(3)技術：CSS Layouts(Floats, Flexbox(Flex Container, Flex Items), CSS Grid (Grid Container, Grid Items))
+(3)技術：HTML(Block Elements, Inline Elements) + CSS Layouts(Floats, Flexbox(Flex Container, Flex Items), CSS Grid (Grid Container, Grid Items))
 
 <https://github.com/chenyu-0721/html-css-practise/blob/main/04-CSS-Layouts>
 
-(4)技術：HTML + CSS (accordion, carousel, table, pagination) 
+(4)技術：HTML(Block Elements, Inline Elements)  + CSS (accordion, carousel, table, pagination) 
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/06-Components>
 
-(5)技術：HTML+CSS綜合應用
+(5)技術：綜合應用
 
 <https://github.com/chenyu-0721/html-css-practise/tree/main/09-Omnifood-Optimizations>
 
