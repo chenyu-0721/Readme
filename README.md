@@ -14,6 +14,11 @@ Vue
 
 <https://chenyu-0721.github.io/monster.github.io/>
 
+(2)Blog部落格
+   技術使用：html, CSS, JavaScript
+
+<https://chenyu-0721.github.io/blog.github.io/>
+
 
 
 
